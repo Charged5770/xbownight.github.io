@@ -2,17 +2,17 @@ body {
   background-image: url("texture.jpeg");
 }
 h1 {
-  color: white; font-family: 'Verdana'
+  color: white; font-family: 'Verdana'; text-align: center;
 }
 
 h2 {
-  color: white; font-family: 'Arial'
+  color: white; font-family: 'Arial'; text-align: center;
 }
 
 h3 {
-  color: white; font-family: 'Arial'
+  color: white; font-family: 'Arial'; text-align: center;
 }
 
 p {
-  color: white;
+  color: white; text-align: center;
 }
