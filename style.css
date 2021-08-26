@@ -7,10 +7,7 @@ body {
 
 }
 h1 {
-  color: white;  background-color: white; font-family: 'Bomber TV DF';
-    src: url("Bomber TV DF.otf") format('opentype');
-    font-weight: bold;
-    font-style: normal; text-align: center;
+  color: white;  background-color: white; font-family: 'Arial'; text-align: 'center';
 }
 
 h2 {
