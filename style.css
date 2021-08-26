@@ -1,5 +1,8 @@
 body {
-  background-color: white;
+  background-color: white; font-family: Bomber;
+    src: url("Bomber TV DF.otf") format('opentype');
+    font-weight: bold;
+    font-style: normal
 }
 
 }
