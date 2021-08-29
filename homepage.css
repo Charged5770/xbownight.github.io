@@ -1,5 +1,13 @@
+body {
+ 
+}
+
 h1 {
  font: 40px sans-serif; 
+}
+
+h2 {
+ font: sans-serif; 
 }
 
 .button {
